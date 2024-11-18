@@ -1,4 +1,4 @@
-# Weapon Detection System
+# Live Stream Censoring Model
 
 This repository contains a Python implementation of a weapon detection system using the YOLO framework. The model identifies weapons in video streams or images and applies bounding boxes around detected objects.
 
